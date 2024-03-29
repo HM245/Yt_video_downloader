@@ -3,16 +3,16 @@ To run this python file in your system you must install the required python libr
 Following are the commands for installing the required Python Libraries(please run these commands in your terminal/Cmd):
 
 for installing Pytube :
-pip install pytube
+```pip install pytube```
 
 for installing Tkinter :
-pip install tkinter
+```pip install tkinter```
 
 for installing Customtkinter :
-pip install customtkinter
+```pip install customtkinter```
 
 You can also update the pip installer :
-pip install --upgrade pip
+```pip install --upgrade pip```
 
 similearly you can update any python library
 
