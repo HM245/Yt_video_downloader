@@ -16,7 +16,7 @@ You can also update the pip installer :
 
 similearly you can update any python library
 
-Sice, My PC is very low end() due to which I am unable to provide the exe file. I will provide it may be in future.
+Sice, My PC is very low end(Intel® Pentium(R) CPU P6100 @ 2.00GHz × 2 & 4GB RAM) due to which I am unable to provide the exe file. I will provide it may be in future.
 I have provided linux executable file so if you are a linux user then you can execute this GUI app in your system.
 You can download it from the releases.
 
