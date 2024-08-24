@@ -2,7 +2,7 @@ import tkinter
 import customtkinter
 from tkinter import filedialog
 from tkinter.filedialog import asksaveasfilename
-from pytube import YouTube
+from pytubefix import YouTube
 
 # def file():
 #     file=filedialog.asksaveasfilename(defaultextension='.mp4')
